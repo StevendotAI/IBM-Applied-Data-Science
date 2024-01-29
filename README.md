@@ -1,4 +1,4 @@
-# IBM-Applied-Data-Science-Capstone
+# IBM-Applied-Data-Science
 
 Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
 
